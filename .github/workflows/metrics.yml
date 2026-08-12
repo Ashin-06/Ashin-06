@@ -6,6 +6,7 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
