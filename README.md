@@ -614,18 +614,15 @@ NETWORK SECURITY
 
 ---
 
-# 14 — GITHUB STATISTICS
+<h1 align="center">14 — GITHUB INTELLIGENCE</h1>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashin-06&theme=tokyonight" width="96%" alt="GitHub Profile Summary">
+  <img
+    src="./github-metrics.svg"
+    width="96%"
+    alt="Ashin Murugan GitHub Metrics"
+  >
 </p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashin-06&theme=tokyonight" width="47%" alt="Repositories by Language">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashin-06&theme=tokyonight" width="47%" alt="Most Commit Language">
-</p>
-
----
 
 # 15 — CONTRIBUTION ACTIVITY
 
