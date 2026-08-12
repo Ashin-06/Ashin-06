@@ -12,7 +12,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,30:06B6D4,55:8B5CF6,75:06B6D4,100:020617&height=5&section=header" width="94%">
 </p>
 
-<!-- ========================= SOCIALS ========================= -->
+<!-- ========================= SOCIAL LINKS ========================= -->
 
 <p align="center">
 
@@ -48,14 +48,15 @@ I'm an **M.Tech Cyber Security student** focused on building practical systems a
 
 <table>
 <tr>
+
 <td align="center" width="31%">
 
 ### CYBERSECURITY
 
-Security Engineering
-Network Security
-SIEM / SOC
-Threat Detection
+Security Engineering  
+Network Security  
+SIEM / SOC  
+Threat Detection  
 Cloud Security
 
 </td>
@@ -70,10 +71,10 @@ Cloud Security
 
 ### ARTIFICIAL INTELLIGENCE
 
-Machine Learning
-Deep Learning
-Generative AI
-AI Security
+Machine Learning  
+Deep Learning  
+Generative AI  
+AI Security  
 Anomaly Detection
 
 </td>
@@ -88,23 +89,25 @@ Anomaly Detection
 
 ### DATA
 
-Data Analysis
-Analytics
-Prediction
+Data Analysis  
+Analytics  
+Prediction  
 Visualization
 
 </td>
+
 </tr>
 </table>
 
 <table>
 <tr>
+
 <td align="center" width="50%">
 
 ### SOFTWARE DEVELOPMENT
 
-Python • FastAPI • Flask
-REST APIs • WebSockets
+Python • FastAPI • Flask  
+REST APIs • WebSockets  
 Git • Docker • Linux
 
 </td>
@@ -113,12 +116,13 @@ Git • Docker • Linux
 
 ### SECURITY AUTOMATION
 
-Monitoring • Detection
-Threat Analysis
-SIEM Automation
+Monitoring • Detection  
+Threat Analysis  
+SIEM Automation  
 Intelligent Security Systems
 
 </td>
+
 </tr>
 </table>
 
@@ -126,7 +130,7 @@ I enjoy combining **security engineering, AI, data and software development** to
 
 <p align="center">
 
-**BUILD IT**  •  **SECURE IT**  •  **ANALYZE IT**  •  **AUTOMATE IT**
+**BUILD IT** &nbsp;•&nbsp; **SECURE IT** &nbsp;•&nbsp; **ANALYZE IT** &nbsp;•&nbsp; **AUTOMATE IT**
 
 </p>
 
@@ -136,22 +140,23 @@ I enjoy combining **security engineering, AI, data and software development** to
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### CYBERSECURITY
 
-* Security Monitoring
-* SIEM / SOC
-* Network Security
-* Application Security
-* Threat Detection
-* Threat Hunting
-* Vulnerability Assessment
-* Incident Response
-* Security Automation
-* Cloud Security
-* MITRE ATT&CK
-* AI Security
+- Security Monitoring
+- SIEM / SOC
+- Network Security
+- Application Security
+- Threat Detection
+- Threat Hunting
+- Vulnerability Assessment
+- Incident Response
+- Security Automation
+- Cloud Security
+- MITRE ATT&CK
+- AI Security
 
 </td>
 
@@ -159,20 +164,21 @@ I enjoy combining **security engineering, AI, data and software development** to
 
 ### AI / DATA / SOFTWARE
 
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Data Analysis
-* Predictive Analytics
-* Anomaly Detection
-* NLP
-* Python Development
-* Backend Development
-* API Development
-* Intelligent Automation
-* Security Analytics
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Data Analysis
+- Predictive Analytics
+- Anomaly Detection
+- NLP
+- Python Development
+- Backend Development
+- API Development
+- Intelligent Automation
+- Security Analytics
 
 </td>
+
 </tr>
 </table>
 
@@ -190,14 +196,15 @@ A centralized monitoring platform designed to combine **infrastructure telemetry
 
 <table align="center">
 <tr>
+
 <td align="center">
 
 **MULTIPLE SERVERS**
 
-System Metrics
-Network Data
-Security Events
-Logs
+System Metrics  
+Network Data  
+Security Events  
+Logs  
 Processes
 
 </td>
@@ -208,9 +215,9 @@ Processes
 
 **MASTER SERVER**
 
-Data Collection
-Processing
-Analysis
+Data Collection  
+Processing  
+Analysis  
 Alerting
 
 </td>
@@ -221,35 +228,36 @@ Alerting
 
 **UNIFIED DASHBOARD**
 
-Monitoring
-Security
-Analytics
+Monitoring  
+Security  
+Analytics  
 Visualization
 
 </td>
+
 </tr>
 </table>
 
 ### Features
 
-* Multi-server monitoring
-* Real-time CPU monitoring
-* Memory monitoring
-* Multi-disk monitoring
-* Network traffic monitoring
-* Process monitoring
-* Process tree visualization
-* Network connection monitoring
-* Port monitoring
-* Connection geolocation
-* Security alerts
-* Wazuh SIEM integration
-* Zabbix integration
-* Centralized log analysis
-* Historical metrics
-* Timeline analysis
-* Real-time notifications
-* AI-assisted log analysis
+- Multi-server monitoring
+- Real-time CPU monitoring
+- Memory monitoring
+- Multi-disk monitoring
+- Network traffic monitoring
+- Process monitoring
+- Process tree visualization
+- Network connection monitoring
+- Port monitoring
+- Connection geolocation
+- Security alerts
+- Wazuh SIEM integration
+- Zabbix integration
+- Centralized log analysis
+- Historical metrics
+- Timeline analysis
+- Real-time notifications
+- AI-assisted log analysis
 
 ### Core Stack
 
@@ -292,14 +300,15 @@ Visualization
 
 <table>
 <tr>
+
 <td>
 
 **NETWORK**
 
-Network Security
-Packet Analysis
-Traffic Analysis
-Reconnaissance
+Network Security  
+Packet Analysis  
+Traffic Analysis  
+Reconnaissance  
 Threat Detection
 
 </td>
@@ -308,9 +317,9 @@ Threat Detection
 
 **APPLICATION**
 
-Web Security
-API Security
-Vulnerability Assessment
+Web Security  
+API Security  
+Vulnerability Assessment  
 OWASP Security
 
 </td>
@@ -319,10 +328,10 @@ OWASP Security
 
 **DEFENSE**
 
-SIEM / SOC
-Threat Hunting
-Incident Analysis
-Security Monitoring
+SIEM / SOC  
+Threat Hunting  
+Incident Analysis  
+Security Monitoring  
 Automation
 
 </td>
@@ -331,12 +340,13 @@ Automation
 
 **INTELLIGENCE**
 
-MITRE ATT&CK
-Threat Intelligence
-Attack Analysis
+MITRE ATT&CK  
+Threat Intelligence  
+Attack Analysis  
 Security Analytics
 
 </td>
+
 </tr>
 </table>
 
@@ -376,13 +386,14 @@ I work with data-driven systems for **analysis, prediction, visualization and in
 
 <table>
 <tr>
+
 <td>
 
 ### ANALYSIS
 
-Data Analysis
-Data Cleaning
-EDA
+Data Analysis  
+Data Cleaning  
+EDA  
 Feature Engineering
 
 </td>
@@ -391,9 +402,9 @@ Feature Engineering
 
 ### MODELING
 
-Machine Learning
-Predictive Modeling
-Time-Series Analysis
+Machine Learning  
+Predictive Modeling  
+Time-Series Analysis  
 Anomaly Detection
 
 </td>
@@ -402,12 +413,13 @@ Anomaly Detection
 
 ### INTELLIGENCE
 
-Security Analytics
-Visualization
-Decision Systems
+Security Analytics  
+Visualization  
+Decision Systems  
 Automation
 
 </td>
+
 </tr>
 </table>
 
@@ -533,57 +545,69 @@ The system explores intelligent strategy orchestration, model evaluation and aut
 
 <table>
 <tr>
+
 <td align="center">
 
 AI FOR CYBERSECURITY
 
 </td>
+
 <td align="center">
 
 GENERATIVE AI SECURITY
 
 </td>
+
 <td align="center">
 
 ADVERSARIAL ML
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
 THREAT INTELLIGENCE
 
 </td>
+
 <td align="center">
 
 SECURITY ANALYTICS
 
 </td>
+
 <td align="center">
 
 SIEM AUTOMATION
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
 INTELLIGENT SOC
 
 </td>
+
 <td align="center">
 
 CLOUD SECURITY
 
 </td>
+
 <td align="center">
 
 NETWORK SECURITY
 
 </td>
+
 </tr>
 </table>
 
@@ -591,28 +615,30 @@ NETWORK SECURITY
 
 # 12 — CERTIFICATIONS & LEARNING
 
-* Cisco Ethical Hacker
-* Cisco Network Defense
-* Google — The Bits and Bytes of Computer Networking
-* Google Cloud Cybersecurity
-* AWS Cloud Practitioner preparation
-* Cybersecurity Fundamentals
-* Cloud Security
-* Network Security
+- Cisco Ethical Hacker
+- Cisco Network Defense
+- Google — The Bits and Bytes of Computer Networking
+- Google Cloud Cybersecurity
+- AWS Cloud Practitioner preparation
+- Cybersecurity Fundamentals
+- Cloud Security
+- Network Security
 
 ---
 
 # 13 — RESEARCH & ACHIEVEMENTS
 
-* **M.Tech Cyber Security**
-* Research presented at **ICICNS 2026**
-* Research on **Generative AI for Simulated Phishing Attack Testing**
-* Cybersecurity projects involving **Wazuh and Zabbix**
-* Hands-on AI/ML experimentation
-* Python-based security automation
-* Cloud security learning across AWS and Google Cloud
+- **M.Tech Cyber Security**
+- Research presented at **ICICNS 2026**
+- Research on **Generative AI for Simulated Phishing Attack Testing**
+- Cybersecurity projects involving **Wazuh and Zabbix**
+- Hands-on AI/ML experimentation
+- Python-based security automation
+- Cloud security learning across AWS and Google Cloud
 
 ---
+
+<!-- ========================= GITHUB INTELLIGENCE ========================= -->
 
 <h1 align="center">14 — GITHUB INTELLIGENCE</h1>
 
@@ -621,31 +647,79 @@ NETWORK SECURITY
     src="./github-metrics.svg"
     width="96%"
     alt="Ashin Murugan GitHub Metrics"
-  >
+  />
 </p>
 
-# 15 — CONTRIBUTION ACTIVITY
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashin-06&theme=tokyo-night&hide_border=true&area=true&custom_title=ASHIN%20MURUGAN%20%E2%80%94%20GITHUB%20ACTIVITY&radius=12" width="96%" alt="GitHub Contribution Activity">
+  <strong>
+    ACTIVITY
+    &nbsp; • &nbsp;
+    REPOSITORIES
+    &nbsp; • &nbsp;
+    LANGUAGES
+    &nbsp; • &nbsp;
+    CONTRIBUTIONS
+  </strong>
 </p>
 
 ---
 
-# 16 — CONTRIBUTION MATRIX
+<!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
+
+<h1 align="center">15 — CONTRIBUTION ACTIVITY</h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ashin-06/Ashin-06/output/github-snake-dark.svg" width="96%" alt="GitHub Contribution Snake">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashin-06&theme=tokyo-night&hide_border=true&area=true&custom_title=ASHIN%20MURUGAN%20%E2%80%94%20GITHUB%20ACTIVITY&radius=12"
+    width="96%"
+    alt="Ashin Murugan GitHub Contribution Activity"
+  />
 </p>
 
 <p align="center">
-<strong>CONTRIBUTION ACTIVITY</strong>
-&nbsp; • &nbsp;
-<strong>BUILD</strong>
-&nbsp; • &nbsp;
-<strong>COMMIT</strong>
-&nbsp; • &nbsp;
-<strong>REPEAT</strong>
+  <strong>
+    CODE
+    &nbsp; • &nbsp;
+    BUILD
+    &nbsp; • &nbsp;
+    COMMIT
+    &nbsp; • &nbsp;
+    CREATE
+  </strong>
+</p>
+
+---
+
+<!-- ========================= CONTRIBUTION MATRIX ========================= -->
+
+<h1 align="center">16 — CONTRIBUTION MATRIX</h1>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Ashin-06/Ashin-06/output/github-snake-dark.svg"
+    width="96%"
+    alt="Ashin Murugan GitHub Contribution Matrix"
+  />
+</p>
+
+<p align="center">
+  <strong>
+    CONTRIBUTION ACTIVITY
+    &nbsp; • &nbsp;
+    BUILD
+    &nbsp; • &nbsp;
+    COMMIT
+    &nbsp; • &nbsp;
+    REPEAT
+  </strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,20:06B6D4,50:8B5CF6,80:06B6D4,100:020617&height=4&section=header"
+    width="90%"
+    alt=""
+  />
 </p>
 
 ---
@@ -724,6 +798,7 @@ NETWORK SECURITY
 
 <table align="center">
 <tr>
+
 <td align="center">
 
 **01**
@@ -733,7 +808,9 @@ NETWORK SECURITY
 PROBLEM
 
 </td>
+
 <td>→</td>
+
 <td align="center">
 
 **02**
@@ -743,7 +820,9 @@ PROBLEM
 ANALYZE
 
 </td>
+
 <td>→</td>
+
 <td align="center">
 
 **03**
@@ -753,7 +832,9 @@ ANALYZE
 BUILD
 
 </td>
+
 <td>→</td>
+
 <td align="center">
 
 **04**
@@ -763,7 +844,9 @@ BUILD
 SECURE
 
 </td>
+
 <td>→</td>
+
 <td align="center">
 
 **05**
@@ -773,7 +856,9 @@ SECURE
 TEST
 
 </td>
+
 <td>→</td>
+
 <td align="center">
 
 **06**
@@ -783,6 +868,7 @@ TEST
 IMPROVE
 
 </td>
+
 </tr>
 </table>
 
