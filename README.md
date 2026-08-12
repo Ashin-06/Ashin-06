@@ -644,9 +644,22 @@ NETWORK SECURITY
 
 <p align="center">
   <img
-    src="./github-metrics.svg"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashin-06&theme=github_dark"
     width="96%"
-    alt="Ashin Murugan GitHub Metrics"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashin-06&theme=github_dark"
+    width="47%"
+    alt="Repositories by Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashin-06&theme=github_dark"
+    width="47%"
+    alt="Most Commit Language"
   />
 </p>
 
@@ -661,8 +674,6 @@ NETWORK SECURITY
     CONTRIBUTIONS
   </strong>
 </p>
-
----
 
 <!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
 
