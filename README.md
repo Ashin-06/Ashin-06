@@ -499,6 +499,16 @@ I build Python-based applications, backend systems, APIs and security-focused to
 
 # 10 — FEATURED PROJECTS
 
+Explore the source code, setup instructions, and technical documentation:
+
+| Project | Focus |
+| --- | --- |
+| [AgentWall](https://github.com/Ashin-06/AgentWall) | Tool-call policy enforcement, audit logging, and a security dashboard |
+| [AgentWall-Supply](https://github.com/Ashin-06/AgentWall-Supply) | MCP tool manifest scanning, drift detection, and Tool-BOM generation |
+| [Unified Ops Dashboard](https://github.com/Ashin-06/unified-ops-dashboard) | Infrastructure and security monitoring |
+| [QR Event Check-In System](https://github.com/Ashin-06/QR-Event-Check-In-System) | QR-based event registration and attendee check-in |
+| [Dynamic Block Cipher](https://github.com/Ashin-06/Dynamic-Block-Cipher) | Experimental cryptography for education and research |
+
 ## UNIFIED SECURITY & INFRASTRUCTURE DASHBOARD
 
 **Real-time centralized monitoring and security intelligence platform.**
