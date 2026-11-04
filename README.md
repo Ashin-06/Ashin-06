@@ -12,6 +12,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,30:06B6D4,55:8B5CF6,75:06B6D4,100:020617&height=5&section=header" width="94%">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashin-06&color=06B6D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 <!-- ========================= SOCIAL LINKS ========================= -->
 
 <p align="center">
@@ -541,7 +545,70 @@ The system explores intelligent strategy orchestration, model evaluation and aut
 
 ---
 
-# 11 — RESEARCH INTERESTS
+# 11 — MORE FEATURED PROJECTS
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### AGENTWALL
+
+AI agent security firewall / proxy that sits between agents and tools to inspect and control their actions.
+
+`AI Security` `Proxy` `Python`
+
+</td>
+
+<td width="50%" valign="top">
+
+### PHANTOMFLOW
+
+ML-based covert channel detection for encrypted traffic, finding hidden communication without decrypting payloads.
+
+`Machine Learning` `Network Security` `Traffic Analysis`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### FINSENTRY
+
+AI-powered social-media surveillance for finance, built to flag pump-and-dump schemes and unregistered advisory activity (SEBI-focused).
+
+`NLP` `Detection` `FinTech Security`
+
+</td>
+
+<td width="50%" valign="top">
+
+### CTF COPILOT
+
+Live screen-watching copilot for CTFs. OCR plus local LLMs (Ollama) give real-time hints and code while you play.
+
+`OCR` `Ollama` `Offensive Security`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 12 — CURRENTLY WORKING ON
+
+- Offensive security orchestrator combining Nmap, Ghidra, Wireshark and Burp with an AI agent
+- Hardening and extending AI-security tooling
+- Cryptography and systems-level security work
+- DSA and competitive programming practice
+
+---
+
+# 13 — RESEARCH INTERESTS
 
 <table>
 <tr>
@@ -613,7 +680,7 @@ NETWORK SECURITY
 
 ---
 
-# 12 — CERTIFICATIONS & LEARNING
+# 14 — CERTIFICATIONS & LEARNING
 
 - Cisco Ethical Hacker
 - Cisco Network Defense
@@ -626,7 +693,7 @@ NETWORK SECURITY
 
 ---
 
-# 13 — RESEARCH & ACHIEVEMENTS
+# 15 — RESEARCH & ACHIEVEMENTS
 
 - **M.Tech Cyber Security**
 - Research presented at **ICICNS 2026**
@@ -640,7 +707,7 @@ NETWORK SECURITY
 
 <!-- ========================= GITHUB INTELLIGENCE ========================= -->
 
-<h1 align="center">14 — GITHUB INTELLIGENCE</h1>
+<h1 align="center">16 — GITHUB INTELLIGENCE</h1>
 
 <p align="center">
   <img
@@ -675,15 +742,28 @@ NETWORK SECURITY
   </strong>
 </p>
 
-<!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
+<!-- ========================= CONTRIBUTION ACTIVITY (FIXED) ========================= -->
 
-<h1 align="center">15 — CONTRIBUTION ACTIVITY</h1>
+<h1 align="center">17 — CONTRIBUTION ACTIVITY</h1>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashin-06&theme=tokyo-night&hide_border=true&area=true&custom_title=ASHIN%20MURUGAN%20%E2%80%94%20GITHUB%20ACTIVITY&radius=12"
+    src="https://raw.githubusercontent.com/Ashin-06/Ashin-06/main/profile-3d-contrib/profile-night-view.svg"
     width="96%"
-    alt="Ashin Murugan GitHub Contribution Activity"
+    alt="Ashin Murugan 3D Contribution Graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Ashin-06&theme=tokyo-night&hide_border=true&border_radius=12"
+    width="48%"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashin-06&theme=github_dark"
+    width="48%"
+    alt="GitHub Stats"
   />
 </p>
 
@@ -703,13 +783,13 @@ NETWORK SECURITY
 
 <!-- ========================= CONTRIBUTION MATRIX ========================= -->
 
-<h1 align="center">16 — CONTRIBUTION MATRIX</h1>
+<h1 align="center">18 — CONTRIBUTION MATRIX</h1>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Ashin-06/Ashin-06/output/github-snake-dark.svg"
     width="96%"
-    alt="Ashin Murugan GitHub Contribution Matrix"
+    alt="Ashin Murugan GitHub Contribution Snake"
   />
 </p>
 
@@ -735,7 +815,25 @@ NETWORK SECURITY
 
 ---
 
-# 17 — PROBLEM SOLVING
+# 19 — PROFILE STATS
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashin-06&theme=github_dark&utcOffset=5.5" width="48%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashin-06&theme=github_dark" width="48%" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/ashinmurugan/">
+    <img src="https://img.shields.io/badge/LEETCODE-ASHINMURUGAN-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Ashin06">
+    <img src="https://img.shields.io/badge/CODEFORCES-ASHIN06-2563EB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 20 — PROBLEM SOLVING
 
 <table>
 <tr>
@@ -775,7 +873,22 @@ NETWORK SECURITY
 
 ---
 
-# 18 — CONNECT
+# 21 — OPEN TO OPPORTUNITIES
+
+<p align="center">
+  <strong>Cybersecurity &nbsp;•&nbsp; Security Engineering &nbsp;•&nbsp; Software &nbsp;•&nbsp; AI Security</strong><br>
+  Fresher / Intern roles
+</p>
+
+<p align="center">
+<a href="mailto:ashin1356790@gmail.com">
+<img src="https://img.shields.io/badge/HIRE%20ME-ashin1356790%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
+---
+
+# 22 — CONNECT
 
 <p align="center">
 
@@ -805,7 +918,7 @@ NETWORK SECURITY
 
 ---
 
-# 19 — ENGINEERING PHILOSOPHY
+# 23 — ENGINEERING PHILOSOPHY
 
 <table align="center">
 <tr>
