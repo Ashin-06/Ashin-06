@@ -545,28 +545,28 @@ The system explores intelligent strategy orchestration, model evaluation and aut
 
 ---
 
-# 11 — MORE FEATURED PROJECTS
+# 11 — FLAGSHIP OPEN-SOURCE PROJECTS
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### AGENTWALL
+### [VIBEAUDIT](https://github.com/Ashin-06/vibeaudit)
 
-AI agent security firewall / proxy that sits between agents and tools to inspect and control their actions.
+Security & quality audit for AI-generated ("vibe-coded") and LLM-powered apps. 172 rules across 12 categories (CWE & OWASP LLM mapped), SARIF/HTML reports, LSP & MCP server. **94.1% held-out precision** across 106 real repositories; published on PyPI (`pip install vibeaudit`).
 
-`AI Security` `Proxy` `Python`
+`AI AppSec` `Static Analysis` `MCP` `PyPI`
 
 </td>
 
 <td width="50%" valign="top">
 
-### PHANTOMFLOW
+### [AGENTWALL](https://github.com/Ashin-06/AgentWall)
 
-ML-based covert channel detection for encrypted traffic, finding hidden communication without decrypting payloads.
+Transparent AI agent security firewall sitting between autonomous coding agents (Copilot, Cursor, Aider) and LLM APIs. Features 4-layer detection, Natural Attribution Engine (`psutil` + `watchdog`), honeytokens, and HMAC-chained DuckDB audit logs (**100% TPR, ~25 ms latency** on Layer-1 policy benchmarks).
 
-`Machine Learning` `Network Security` `Traffic Analysis`
+`AI Security` `Agent Proxy` `FastAPI` `SOC`
 
 </td>
 
@@ -576,21 +576,45 @@ ML-based covert channel detection for encrypted traffic, finding hidden communic
 
 <td width="50%" valign="top">
 
-### FINSENTRY
+### [PHANTOMFLOW](https://github.com/Ashin-06/PhantomFlow)
 
-AI-powered social-media surveillance for finance, built to flag pump-and-dump schemes and unregistered advisory activity (SEBI-focused).
+ML-based covert channel detection for encrypted traffic (TLS 1.3, QUIC, DoH), detecting C2 beaconing, DNS tunneling, and data exfiltration from packet metadata with zero decryption (LSTM + XGBoost + IsolationForest ensemble, SHAP & MITRE ATT&CK mapping).
 
-`NLP` `Detection` `FinTech Security`
+`Network Security` `Encrypted Traffic ML` `Kafka` `Zeek`
 
 </td>
 
 <td width="50%" valign="top">
 
-### CTF COPILOT
+### [RUBICON](https://github.com/Ashin-06/rubicon)
 
-Live screen-watching copilot for CTFs. OCR plus local LLMs (Ollama) give real-time hints and code while you play.
+Reversibility-aware execution engine for AI agents (`pip install rubicon-agents`). Runs undoable steps first, validates permanent steps, gates once before the point of no return, and rolls back via journaled recovery on failure (**97.3% state consistency** across 300 fault-injected trials).
 
-`OCR` `Ollama` `Offensive Security`
+`AI Agents` `Transaction Safety` `LangGraph` `MCP`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### [KYC LIVENESS GUARD](https://github.com/Ashin-06/kyc-liveness-guard)
+
+Multi-signal liveness verification for video KYC and voice onboarding. Combines voice acoustics (ASVspoof), rPPG skin pulse extraction, audio-visual lip sync, and cryptographically signed timed challenges to block deepfakes, voice clones, and replay attacks.
+
+`Biometric Security` `rPPG` `Anti-Spoofing` `FastAPI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### [SOC COPILOT](https://github.com/Ashin-06/soc-copilot)
+
+8-stage digital-bank SOC copilot correlating Wazuh, CloudTrail, auth, and payment-switch telemetry using Sigma-style rules, privacy-masked LLM triage with mandatory log-ID citations, and dual-control approval-gated containment playbooks.
+
+`SIEM / SOC` `Sigma Rules` `LLM Triage` `FinTech Security`
 
 </td>
 
